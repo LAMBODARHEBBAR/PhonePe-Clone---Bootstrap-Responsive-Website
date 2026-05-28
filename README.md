@@ -107,6 +107,3 @@ Through this project, I learned:
 
 
 ---
-
-
-Developed by Your Name
